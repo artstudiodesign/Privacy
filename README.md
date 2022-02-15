@@ -1,2 +1,2 @@
-# privacy
-web
+# privacy 
+& Policy Statement
